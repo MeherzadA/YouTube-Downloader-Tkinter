@@ -28,6 +28,13 @@ To finish, select a file location for your downloaded video:
 After, the "Download" button should key-in; Click it, and you will be notified once the video is done downloading.
 If you recieve an error message, check to make sure your timestamps are valid, or that you don't already have a similar file in this directory!
 
+![image](https://user-images.githubusercontent.com/97406502/156097753-35abba66-f839-4eca-b9a8-3afbba32e1f7.png)
+
+You should be able to see the final clipped (or unclipped if you didn't checkmark the box) video in your specified directory! Horray!
+
+![image](https://user-images.githubusercontent.com/97406502/156097856-5e615a6b-e8c7-482b-861e-376bdaec2e80.png)
+
+
 
 
 
